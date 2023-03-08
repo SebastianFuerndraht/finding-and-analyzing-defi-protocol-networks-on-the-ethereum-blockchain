@@ -72,8 +72,12 @@ python ./scripts/main.py -f "create"
   
   
 ## Plot the networks (R scripts)
-Before any R script can be used following functions 
-of the main.py script need to be executed:
+Before any R script can run:
+* the graphml files with the network data need to be present for the protocols you want to plot.
+* their centrality values have to be calculated
+* they need to have etherscan labels
+
+If anything is missing, you can run the according functions of the main.py script:
 
 * `create`
 * `calc`
