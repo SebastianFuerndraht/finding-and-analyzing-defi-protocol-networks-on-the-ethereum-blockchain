@@ -1,0 +1,8 @@
+files:
+    path_results: "../results"
+    path_processed_networks: "../data/processed/defi-networks/"
+    path_protocols_category: "../data/input/protocols-per-category.json"
+    path_seed_dataset_extended: "../data/input/seed_dataset_extended.csv"
+    path_seed_dataset: "../data/input/seed_dataset.csv"
+plots:
+    path_degree_dist: "../results/plots/degree-distribution/"

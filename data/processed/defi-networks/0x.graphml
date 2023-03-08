@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x080bf510fcbf18b91105470639e9561022937712">
+      <data key="d0">exchangeV2</data>
+      <data key="d1">0x</data>
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">0.7142857142857144</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.7999999999999999</data>
+      <data key="d8">1.5053315013625894e-06</data>
+      <data key="d9">9.361567290073997e-06</data>
+      <data key="d10">0.171757843546452</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.1468332977985182</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: Exchange v2.1</data>
+    </node>
+    <node id="0x95e6f48254609a6ee006f7d493c8e5fb97094cef">
+      <data key="d0">erc20Proxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">5</data>
+      <data key="d3">4</data>
+      <data key="d4">1</data>
+      <data key="d5">0.7142857142857144</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.19999999999999998</data>
+      <data key="d8">0.1708298644887576</data>
+      <data key="d9">3.5476232710924736e-19</data>
+      <data key="d10">0.6154904174128698</data>
+      <data key="d11">0.042400941854979605</data>
+      <data key="d12">0.5693206016973626</data>
+      <data key="d13">0.7901234567901234</data>
+      <data key="d14">0.5714285714285715</data>
+      <data key="d15">0x: ERC20 Proxy</data>
+    </node>
+    <node id="0xef701d5389ae74503d633396c4d654eabedc9d78">
+      <data key="d0">multiAssetProxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">5</data>
+      <data key="d3">2</data>
+      <data key="d4">3</data>
+      <data key="d5">0.7142857142857144</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.5999999999999999</data>
+      <data key="d8">4.515994504087504e-06</data>
+      <data key="d9">9.039048459471036e-18</data>
+      <data key="d10">0.18788689385239116</data>
+      <data key="d11">0.09723666076142855</data>
+      <data key="d12">0.26449072146971186</data>
+      <data key="d13">0.41666666666666663</data>
+      <data key="d14">0.4285714285714286</data>
+      <data key="d15">0x: Multi Asset Proxy</data>
+    </node>
+    <node id="0xefc70a1b18c432bdc64b596838b4d138f6bc6cad">
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.42857142857142855</data>
+      <data key="d6">0.7499999999999999</data>
+      <data key="d7">0.0</data>
+      <data key="d8">9.03198900816871e-06</data>
+      <data key="d9">7.390881814775988e-21</data>
+      <data key="d10">0.26642056567592487</data>
+      <data key="d11">0.03537463885002138</data>
+      <data key="d12">0.4034353387103858</data>
+      <data key="d13">0.5925925925925927</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: ERC721 Proxy</data>
+    </node>
+    <node id="0x22f9dcf4647084d6c31b2765f6910cd85c178c18">
+      <data key="d0">exchangeProxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.42857142857142855</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.39999999999999997</data>
+      <data key="d8">0.4472068634528272</data>
+      <data key="d9">0.6180339887498947</data>
+      <data key="d10">0.8661927259846832</data>
+      <data key="d11">0.05587701927942519</data>
+      <data key="d12">0.35076643494686566</data>
+      <data key="d13">0.1851851851851852</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: Exchange Proxy Flash Wallet</data>
+    </node>
+    <node id="0xdef1c0ded9bec7f1a1670819833240f027b25eff">
+      <data key="d0">exchangeProxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.8571428571428571</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.7999999999999999</data>
+      <data key="d8">0.7235959050689075</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.9645756086220582</data>
+      <data key="d11">0.5211343376910406</data>
+      <data key="d12">0.5350341770201887</data>
+      <data key="d13">0.1851851851851852</data>
+      <data key="d14">0.4285714285714286</data>
+      <data key="d15">0x: Exchange Proxy</data>
+    </node>
+    <node id="0xe41d2489571d322189246dafa5ebde1f4699f498">
+      <data key="d0">zrxToken</data>
+      <data key="d1">0x</data>
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">0.5714285714285715</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">7.390881814775988e-21</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.03537463885002138</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: ZRX Token</data>
+    </node>
+    <node id="0x61935cbdd02287b511119ddb11aeb42f1593b7ef">
+      <data key="d0">exchange</data>
+      <data key="d1">0x</data>
+      <data key="d2">7</data>
+      <data key="d3">2</data>
+      <data key="d4">5</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.5</data>
+      <data key="d7">1.0</data>
+      <data key="d8">3.010663002725176e-06</data>
+      <data key="d9">1.4562438006641974e-05</data>
+      <data key="d10">0.37746776124134274</data>
+      <data key="d11">0.6532713806205634</data>
+      <data key="d12">0.22396907121027967</data>
+      <data key="d13">0.1851851851851852</data>
+      <data key="d14">1.0</data>
+      <data key="d15">0x: Exchange v3</data>
+    </node>
+    <node id="0xa26e80e7dea86279c6d778d702cc413e6cffa777">
+      <data key="d0">stakingProxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">3</data>
+      <data key="d3">2</data>
+      <data key="d4">1</data>
+      <data key="d5">0.42857142857142855</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.19999999999999998</data>
+      <data key="d8">0.4472098741158299</data>
+      <data key="d9">1.361769974372476e-16</data>
+      <data key="d10">0.26344756963440075</data>
+      <data key="d11">0.07225675916683702</data>
+      <data key="d12">0.4684238586180592</data>
+      <data key="d13">0.4938271604938272</data>
+      <data key="d14">0.8571428571428572</data>
+      <data key="d15">0x: Staking Proxy</data>
+    </node>
+    <node id="0x7d3455421bbc5ed534a83c88fd80387dc8271392">
+      <data key="d0">zeroExGovernor</data>
+      <data key="d1">0x</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.14285714285714288</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.19999999999999998</data>
+      <data key="d8">5.3480118160201664e-21</data>
+      <data key="d9">1.4562438004922832e-05</data>
+      <data key="d10">0.17168736836150245</data>
+      <data key="d11">0.035741895877261086</data>
+      <data key="d12">0.06969752438675675</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: Governor</data>
+    </node>
+    <node id="0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf">
+      <data key="d0">zrxVault</data>
+      <data key="d1">0x</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.42857142857142855</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.39999999999999997</data>
+      <data key="d8">0.2763920522790831</data>
+      <data key="d9">8.69167701417656e-18</data>
+      <data key="d10">0.3956197606484269</data>
+      <data key="d11">0.04339072871246221</data>
+      <data key="d12">0.31577411028899227</data>
+      <data key="d13">0.42087542087542085</data>
+      <data key="d14">0.5714285714285715</data>
+      <data key="d15">0x: ZRX Vault</data>
+    </node>
+    <node id="0x7eefbd48fd63d441ec7435d024ec7c5131019add">
+      <data key="d0">erc1155Proxy</data>
+      <data key="d1">0x</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.14285714285714288</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.0</data>
+      <data key="d8">4.515994504081213e-06</data>
+      <data key="d9">7.390881814775988e-21</data>
+      <data key="d10">0.1916977793785962</data>
+      <data key="d11">0.03537463885002138</data>
+      <data key="d12">0.2086421416274307</data>
+      <data key="d13">0.3703703703703704</data>
+      <data key="d14">0.0</data>
+      <data key="d15">0x: ERC1155 Proxy</data>
+    </node>
+    <edge source="0x080bf510fcbf18b91105470639e9561022937712" target="0x080bf510fcbf18b91105470639e9561022937712">
+      <data key="d16">36</data>
+    </edge>
+    <edge source="0x080bf510fcbf18b91105470639e9561022937712" target="0x95e6f48254609a6ee006f7d493c8e5fb97094cef">
+      <data key="d16">66519</data>
+    </edge>
+    <edge source="0x080bf510fcbf18b91105470639e9561022937712" target="0xef701d5389ae74503d633396c4d654eabedc9d78">
+      <data key="d16">8012</data>
+    </edge>
+    <edge source="0x080bf510fcbf18b91105470639e9561022937712" target="0xefc70a1b18c432bdc64b596838b4d138f6bc6cad">
+      <data key="d16">10</data>
+    </edge>
+    <edge source="0x95e6f48254609a6ee006f7d493c8e5fb97094cef" target="0xe41d2489571d322189246dafa5ebde1f4699f498">
+      <data key="d16">544</data>
+    </edge>
+    <edge source="0xef701d5389ae74503d633396c4d654eabedc9d78" target="0x7eefbd48fd63d441ec7435d024ec7c5131019add">
+      <data key="d16">1640</data>
+    </edge>
+    <edge source="0xef701d5389ae74503d633396c4d654eabedc9d78" target="0x95e6f48254609a6ee006f7d493c8e5fb97094cef">
+      <data key="d16">3706</data>
+    </edge>
+    <edge source="0xef701d5389ae74503d633396c4d654eabedc9d78" target="0xefc70a1b18c432bdc64b596838b4d138f6bc6cad">
+      <data key="d16">7743</data>
+    </edge>
+    <edge source="0x22f9dcf4647084d6c31b2765f6910cd85c178c18" target="0xdef1c0ded9bec7f1a1670819833240f027b25eff">
+      <data key="d16">3587</data>
+    </edge>
+    <edge source="0x22f9dcf4647084d6c31b2765f6910cd85c178c18" target="0xe41d2489571d322189246dafa5ebde1f4699f498">
+      <data key="d16">363</data>
+    </edge>
+    <edge source="0xdef1c0ded9bec7f1a1670819833240f027b25eff" target="0x22f9dcf4647084d6c31b2765f6910cd85c178c18">
+      <data key="d16">541355</data>
+    </edge>
+    <edge source="0xdef1c0ded9bec7f1a1670819833240f027b25eff" target="0xa26e80e7dea86279c6d778d702cc413e6cffa777">
+      <data key="d16">25</data>
+    </edge>
+    <edge source="0xdef1c0ded9bec7f1a1670819833240f027b25eff" target="0xdef1c0ded9bec7f1a1670819833240f027b25eff">
+      <data key="d16">96888</data>
+    </edge>
+    <edge source="0xdef1c0ded9bec7f1a1670819833240f027b25eff" target="0xe41d2489571d322189246dafa5ebde1f4699f498">
+      <data key="d16">810</data>
+    </edge>
+    <edge source="0x61935cbdd02287b511119ddb11aeb42f1593b7ef" target="0x61935cbdd02287b511119ddb11aeb42f1593b7ef">
+      <data key="d16">1511</data>
+    </edge>
+    <edge source="0x61935cbdd02287b511119ddb11aeb42f1593b7ef" target="0x95e6f48254609a6ee006f7d493c8e5fb97094cef">
+      <data key="d16">4255</data>
+    </edge>
+    <edge source="0x61935cbdd02287b511119ddb11aeb42f1593b7ef" target="0xa26e80e7dea86279c6d778d702cc413e6cffa777">
+      <data key="d16">2316</data>
+    </edge>
+    <edge source="0x61935cbdd02287b511119ddb11aeb42f1593b7ef" target="0xef701d5389ae74503d633396c4d654eabedc9d78">
+      <data key="d16">13</data>
+    </edge>
+    <edge source="0x61935cbdd02287b511119ddb11aeb42f1593b7ef" target="0xefc70a1b18c432bdc64b596838b4d138f6bc6cad">
+      <data key="d16">6</data>
+    </edge>
+    <edge source="0xa26e80e7dea86279c6d778d702cc413e6cffa777" target="0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf">
+      <data key="d16">870</data>
+    </edge>
+    <edge source="0x7d3455421bbc5ed534a83c88fd80387dc8271392" target="0x61935cbdd02287b511119ddb11aeb42f1593b7ef">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf" target="0x95e6f48254609a6ee006f7d493c8e5fb97094cef">
+      <data key="d16">258</data>
+    </edge>
+    <edge source="0xba7f8b5fb1b19c1211c5d49550fcd149177a5eaf" target="0xe41d2489571d322189246dafa5ebde1f4699f498">
+      <data key="d16">611</data>
+    </edge>
+  </graph>
+</graphml>

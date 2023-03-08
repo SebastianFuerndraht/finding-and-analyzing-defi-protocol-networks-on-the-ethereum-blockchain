@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x12392f67bdf24fae0af363c24ac620a2f67dad86">
+      <data key="d0">cTUSD</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.15613118191182285</data>
+      <data key="d11">0.02425568727299737</data>
+      <data key="d12">0.286110026326841</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.012366156498034568</data>
+      <data key="d15">Compound: cTUSD Token</data>
+    </node>
+    <node id="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d0">Unitroller</data>
+      <data key="d1">compound</data>
+      <data key="d2">39</data>
+      <data key="d3">19</data>
+      <data key="d4">20</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">1.0</data>
+      <data key="d10">1.0</data>
+      <data key="d11">1.0</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">1.0</data>
+      <data key="d15">Compound: Comptroller</data>
+    </node>
+    <node id="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d2">11</data>
+      <data key="d3">11</data>
+      <data key="d4">0</data>
+      <data key="d5">0.28205128205128205</data>
+      <data key="d6">0.5789473684210525</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.6486410678059694</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.8396763324494863</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.6538153397254318</data>
+      <data key="d13">0.6069032485875706</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012">
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.15789473684210525</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.17959151583513852</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.14869248083829578</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.22391269782568013</data>
+      <data key="d13">0.47743055555555547</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x158079ee67fce2f58472a96584a73c7ab9ac95c1">
+      <data key="d0">cREP</data>
+      <data key="d1">compound</data>
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">0.10256410256410256</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.15</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">0.3075683419961962</data>
+      <data key="d10">0.10069436766698212</data>
+      <data key="d11">0.013359539119761388</data>
+      <data key="d12">0.2357144956642343</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.008475215206602773</data>
+      <data key="d15">Compound: cREP Token </data>
+    </node>
+    <node id="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5">
+      <data key="d0">cETH</data>
+      <data key="d1">compound</data>
+      <data key="d2">10</data>
+      <data key="d3">4</data>
+      <data key="d4">6</data>
+      <data key="d5">0.2564102564102564</data>
+      <data key="d6">0.21052631578947367</data>
+      <data key="d7">0.3</data>
+      <data key="d8">0.3155553997968221</data>
+      <data key="d9">0.4842260061688858</data>
+      <data key="d10">0.34516890818435164</data>
+      <data key="d11">0.3365517013562664</data>
+      <data key="d12">0.34924244374261837</data>
+      <data key="d13">0.6226415094339623</data>
+      <data key="d14">0.08805619985719419</data>
+      <data key="d15">Compound: cETH Token</data>
+    </node>
+    <node id="0xbae04cbf96391086dc643e842b517734e214d698">
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">0.10256410256410256</data>
+      <data key="d6">0.21052631578947367</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.1717673972707346</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.20736201567874687</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.22564947863527515</data>
+      <data key="d13">0.47743055555555547</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x2775b1c75658be0f640272ccb8c72ac986009e38">
+      <data key="d0">Reservoir</data>
+      <data key="d1">compound</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05</data>
+      <data key="d8">3.6430631457789504e-14</data>
+      <data key="d9">2.8081369965272434e-12</data>
+      <data key="d10">0.09669653841639476</data>
+      <data key="d11">0.013223816816273016</data>
+      <data key="d12">0.05957410901089484</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d0">COMP</data>
+      <data key="d1">compound</data>
+      <data key="d2">8</data>
+      <data key="d3">8</data>
+      <data key="d4">0</data>
+      <data key="d5">0.20512820512820512</data>
+      <data key="d6">0.42105263157894735</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.29710787246966114</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.5925689044442117</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.3862359283625276</data>
+      <data key="d13">0.8886303191489362</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Compound: COMP Token</data>
+    </node>
+    <node id="0x2f04664b18fb9b6d49124fcc876b52a4ba797718">
+      <data key="d0">CrowdProposalFactory_DEPLOYED</data>
+      <data key="d1">compound</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05</data>
+      <data key="d8">3.6430631457789504e-14</data>
+      <data key="d9">2.8081369965272434e-12</data>
+      <data key="d10">0.09669653841639476</data>
+      <data key="d11">0.013148806079799825</data>
+      <data key="d12">0.05957410901089484</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x35a18000230da775cac24873d00ff85bccded550">
+      <data key="d0">cUNI</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.18555185064126598</data>
+      <data key="d11">0.06292755201206718</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.040482346627875504</data>
+      <data key="d15">Compound: cUNI Token</data>
+    </node>
+    <node id="0xd88b94128ff2b8cf2d7886cd1c1e46757418ca2a">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.05416634320667617</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.10454738435790094</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.10996963967350173</data>
+      <data key="d13">0.442065329218107</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x39aa39c021dfbae8fac545936693ac917d5e7563">
+      <data key="d0">cUSDC</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">3</data>
+      <data key="d4">3</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.15789473684210525</data>
+      <data key="d7">0.15</data>
+      <data key="d8">0.34387237990035086</data>
+      <data key="d9">0.26139148006201646</data>
+      <data key="d10">0.22487818423186123</data>
+      <data key="d11">0.2618469828288596</data>
+      <data key="d12">0.3607777222303877</data>
+      <data key="d13">0.611111111111111</data>
+      <data key="d14">0.03874384094446982</data>
+      <data key="d15">Compound: cUSDC Token</data>
+    </node>
+    <node id="0xd8ec56013ea119e7181d231e5048f90fbbe753c0">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.07125882942185904</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.16354009944074566</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.12312163650046633</data>
+      <data key="d13">0.4532568565400844</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7">
+      <data key="d0">cSUSHI</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.15180376375805957</data>
+      <data key="d11">0.029880673639302673</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.006004940549314577</data>
+      <data key="d15">Compound: cSushi Token</data>
+    </node>
+    <node id="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643">
+      <data key="d0">cDAI</data>
+      <data key="d1">compound</data>
+      <data key="d2">8</data>
+      <data key="d3">3</data>
+      <data key="d4">5</data>
+      <data key="d5">0.20512820512820512</data>
+      <data key="d6">0.15789473684210525</data>
+      <data key="d7">0.25</data>
+      <data key="d8">0.34387237990035086</data>
+      <data key="d9">0.3297164984120585</data>
+      <data key="d10">0.2603488009182801</data>
+      <data key="d11">0.19102924894212453</data>
+      <data key="d12">0.3607777222303877</data>
+      <data key="d13">0.611111111111111</data>
+      <data key="d14">0.01773689726998431</data>
+      <data key="d15">Compound: cDAI Token</data>
+    </node>
+    <node id="0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e">
+      <data key="d0">cBAT</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">0.20722515714937118</data>
+      <data key="d10">0.11663901113943333</data>
+      <data key="d11">0.033697116335061714</data>
+      <data key="d12">0.23571449566423422</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.008475215206602773</data>
+    </node>
+    <node id="0x6d2299c48a8dd07a872fdd0f8233924872ad1071">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.3016464459274833</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.23571449566423427</data>
+      <data key="d13">0.6173670977011494</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4">
+      <data key="d0">cCOMP</data>
+      <data key="d1">compound</data>
+      <data key="d2">9</data>
+      <data key="d3">4</data>
+      <data key="d4">5</data>
+      <data key="d5">0.23076923076923075</data>
+      <data key="d6">0.21052631578947367</data>
+      <data key="d7">0.25</data>
+      <data key="d8">0.4337575294247037</data>
+      <data key="d9">0.2613915017127527</data>
+      <data key="d10">0.16408333217034424</data>
+      <data key="d11">0.07591203144554733</data>
+      <data key="d12">0.437911649491891</data>
+      <data key="d13">0.6226415094339623</data>
+      <data key="d14">0.01523853451066831</data>
+      <data key="d15">Compound: cCOMP Token</data>
+    </node>
+    <node id="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946">
+      <data key="d0">cYFI</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.1527568456507064</data>
+      <data key="d11">0.022852040960697265</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.006004940549314577</data>
+      <data key="d15">Compound: cYFI Token</data>
+    </node>
+    <node id="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b">
+      <data key="d0">cMKR</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.15547689723818178</data>
+      <data key="d11">0.02346398732354194</data>
+      <data key="d12">0.2861100263268411</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.006004940549314577</data>
+      <data key="d15">Compound: cMKR Token</data>
+    </node>
+    <node id="0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407">
+      <data key="d0">cZRX</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">0.20722515714937118</data>
+      <data key="d10">0.11066158044833775</data>
+      <data key="d11">0.02367210839454906</data>
+      <data key="d12">0.23571449566423425</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.008475215206602773</data>
+    </node>
+    <node id="0xc11b1268c1a384e55c48c2391d8d480264a3a7f4">
+      <data key="d0">cWBTC</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">0.20722515714937118</data>
+      <data key="d10">0.10763584816528453</data>
+      <data key="d11">0.015489524474328869</data>
+      <data key="d12">0.23571449566423422</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.008475215206602773</data>
+    </node>
+    <node id="0xccf4429db6322d5c611ee964527d42e5d685dd6a">
+      <data key="d0">cWBTC2</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.200295052534984</data>
+      <data key="d11">0.09262878830337912</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.040482346627875504</data>
+      <data key="d15">Compound: cWBTC2 Token</data>
+    </node>
+    <node id="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c">
+      <data key="d0">cAAVE</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.15501626980865071</data>
+      <data key="d11">0.02625592703471259</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.006004940549314577</data>
+    </node>
+    <node id="0xf5dce57282a584d2746faf1593d3121fcac444dc">
+      <data key="d0">cSAI</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">0.20722270860854333</data>
+      <data key="d9">0.20722515714937118</data>
+      <data key="d10">0.10038857557454588</data>
+      <data key="d11">0.024799695720362377</data>
+      <data key="d12">0.23571449566423427</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.03874384094446982</data>
+      <data key="d15">Compound: cSAI Token</data>
+    </node>
+    <node id="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9">
+      <data key="d0">cUSDT</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.22608573483534217</data>
+      <data key="d11">0.15549749175735855</data>
+      <data key="d12">0.28611002632684107</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.012366156498034568</data>
+      <data key="d15">Compound: cUSDT Token</data>
+    </node>
+    <node id="0xface851a4921ce59e912d19329929ce6da6eb0c7">
+      <data key="d0">cLINK</data>
+      <data key="d1">compound</data>
+      <data key="d2">6</data>
+      <data key="d3">2</data>
+      <data key="d4">4</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.10526315789473684</data>
+      <data key="d7">0.2</data>
+      <data key="d8">0.26138905181518307</data>
+      <data key="d9">0.2613914908873846</data>
+      <data key="d10">0.16473290904571045</data>
+      <data key="d11">0.03809805213824734</data>
+      <data key="d12">0.2861100263268411</data>
+      <data key="d13">0.5892857142857143</data>
+      <data key="d14">0.006004940549314577</data>
+      <data key="d15">Compound: cLink Token</data>
+    </node>
+    <node id="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d2">6</data>
+      <data key="d3">6</data>
+      <data key="d4">0</data>
+      <data key="d5">0.15384615384615383</data>
+      <data key="d6">0.3157894736842105</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.36071686555758786</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.1415577878612117</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.3886856895854325</data>
+      <data key="d13">0.526577818627451</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x0c3f8df27e1a00b47653fde878d68d35f00714c0">
+      <data key="d0">Base200bps_Slope1000bps</data>
+      <data key="d1">compound</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.06539084187002134</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.19503301028365538</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.12108980808747677</data>
+      <data key="d13">0.4590678418803419</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x54a06047087927d9b0fb21c1cf0ebd792764ddb8">
+      <data key="d0">CrowdProposalFactory</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.15</data>
+      <data key="d8">3.6430631457789504e-14</data>
+      <data key="d9">0.0038534436782109043</data>
+      <data key="d10">0.09669653841639476</data>
+      <data key="d11">0.050514806524502895</data>
+      <data key="d12">0.05957410901089484</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xc77e871657543748c488b0e7e292bdea659344ba">
+      <data key="d0">CrowdProposalFactory</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">6.557513662402111e-13</data>
+      <data key="d9">0.009297898261299554</data>
+      <data key="d10">0.11724425455890962</data>
+      <data key="d11">0.024923583741592228</data>
+      <data key="d12">0.07006751560660204</data>
+      <data key="d13">0.05729166666666667</data>
+      <data key="d14">0.025022063943303433</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe3e7840c05f0d68bad0bd4cffeb77558bd8e9bda">
+      <data key="d0">CrowdProposalFactory</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">6.557513662402111e-13</data>
+      <data key="d9">0.009297898261299554</data>
+      <data key="d10">0.11724425455890962</data>
+      <data key="d11">0.019036370169426105</data>
+      <data key="d12">0.07006751560660204</data>
+      <data key="d13">0.05729166666666667</data>
+      <data key="d14">0.025022063943303433</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x6d903f6003cca6255d85cca4d3b5e5146dc33925">
+      <data key="d0">Timelock</data>
+      <data key="d1">compound</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.07692307692307691</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.1</data>
+      <data key="d8">1.4323795676573685e-08</data>
+      <data key="d9">0.2165230554052196</data>
+      <data key="d10">0.15067955825380952</data>
+      <data key="d11">0.02513875581461973</data>
+      <data key="d12">0.07679795607899174</data>
+      <data key="d13">0.11458333333333334</data>
+      <data key="d14">0.18726189789827083</data>
+      <data key="d15">Compound: Timelock</data>
+    </node>
+    <node id="0xc0da02939e1441f497fd74f78ce7decb17b66529">
+      <data key="d0">GovernorBravo</data>
+      <data key="d1">compound</data>
+      <data key="d2">5</data>
+      <data key="d3">3</data>
+      <data key="d4">2</data>
+      <data key="d5">0.1282051282051282</data>
+      <data key="d6">0.15789473684210525</data>
+      <data key="d7">0.1</data>
+      <data key="d8">1.4325034318043248e-08</data>
+      <data key="d9">0.04486843548233013</data>
+      <data key="d10">0.16839661893008115</data>
+      <data key="d11">0.03463070231493427</data>
+      <data key="d12">0.09778476927040615</data>
+      <data key="d13">0.18333333333333335</data>
+      <data key="d14">0.14609656689477166</data>
+      <data key="d15">Compound: Governance</data>
+    </node>
+    <node id="0xf2e5db36b0682f2cd6bc805c3a4236194e01f4d5">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.05416634320667617</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.10940283861367345</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.10996963967350173</data>
+      <data key="d13">0.442065329218107</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xa1046abfc2598f48c44fb320d281d3f3c0733c9a">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.05263157894736842</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.04294184931771096</data>
+      <data key="d9">1.6518452920748485e-13</data>
+      <data key="d10">0.11761041047547442</data>
+      <data key="d11">0.013148105044879514</data>
+      <data key="d12">0.10109295141698993</data>
+      <data key="d13">0.442065329218107</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xf859a1ad94bcf445a406b892ef0d3082f4174088">
+      <data key="d0">Maximillion</data>
+      <data key="d1">compound</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.02564102564102564</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05</data>
+      <data key="d8">3.6430631457789504e-14</data>
+      <data key="d9">0.1003431848469902</data>
+      <data key="d10">0.09669653841639476</data>
+      <data key="d11">0.017654371922557657</data>
+      <data key="d12">0.05957410901089484</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+    </node>
+    <edge source="0x12392f67bdf24fae0af363c24ac620a2f67dad86" target="0x12392f67bdf24fae0af363c24ac620a2f67dad86">
+      <data key="d16">2252</data>
+    </edge>
+    <edge source="0x12392f67bdf24fae0af363c24ac620a2f67dad86" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">345</data>
+    </edge>
+    <edge source="0x12392f67bdf24fae0af363c24ac620a2f67dad86" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">2579</data>
+    </edge>
+    <edge source="0x12392f67bdf24fae0af363c24ac620a2f67dad86" target="0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012">
+      <data key="d16">316</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x12392f67bdf24fae0af363c24ac620a2f67dad86">
+      <data key="d16">3117</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x158079ee67fce2f58472a96584a73c7ab9ac95c1">
+      <data key="d16">2484</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x35a18000230da775cac24873d00ff85bccded550">
+      <data key="d16">15875</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x39aa39c021dfbae8fac545936693ac917d5e7563">
+      <data key="d16">79620</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7">
+      <data key="d16">3361</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5">
+      <data key="d16">91865</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643">
+      <data key="d16">58222</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e">
+      <data key="d16">12391</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x6d2299c48a8dd07a872fdd0f8233924872ad1071">
+      <data key="d16">127343</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4">
+      <data key="d16">19997</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946">
+      <data key="d16">1511</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b">
+      <data key="d16">1945</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407">
+      <data key="d16">8677</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">11273</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xc11b1268c1a384e55c48c2391d8d480264a3a7f4">
+      <data key="d16">6797</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xccf4429db6322d5c611ee964527d42e5d685dd6a">
+      <data key="d16">25614</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c">
+      <data key="d16">2827</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xf5dce57282a584d2746faf1593d3121fcac444dc">
+      <data key="d16">2294</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9">
+      <data key="d16">44113</data>
+    </edge>
+    <edge source="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b" target="0xface851a4921ce59e912d19329929ce6da6eb0c7">
+      <data key="d16">8851</data>
+    </edge>
+    <edge source="0x158079ee67fce2f58472a96584a73c7ab9ac95c1" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">22</data>
+    </edge>
+    <edge source="0x158079ee67fce2f58472a96584a73c7ab9ac95c1" target="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0x158079ee67fce2f58472a96584a73c7ab9ac95c1" target="0xbae04cbf96391086dc643e842b517734e214d698">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x0c3f8df27e1a00b47653fde878d68d35f00714c0">
+      <data key="d16">25514</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x39aa39c021dfbae8fac545936693ac917d5e7563">
+      <data key="d16">5</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">50482</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5">
+      <data key="d16">107</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643">
+      <data key="d16">6</data>
+    </edge>
+    <edge source="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5" target="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x2775b1c75658be0f640272ccb8c72ac986009e38" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">216</data>
+    </edge>
+    <edge source="0x2f04664b18fb9b6d49124fcc876b52a4ba797718" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0x35a18000230da775cac24873d00ff85bccded550" target="0x35a18000230da775cac24873d00ff85bccded550">
+      <data key="d16">11676</data>
+    </edge>
+    <edge source="0x35a18000230da775cac24873d00ff85bccded550" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">2431</data>
+    </edge>
+    <edge source="0x35a18000230da775cac24873d00ff85bccded550" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">13534</data>
+    </edge>
+    <edge source="0x35a18000230da775cac24873d00ff85bccded550" target="0xd88b94128ff2b8cf2d7886cd1c1e46757418ca2a">
+      <data key="d16">1448</data>
+    </edge>
+    <edge source="0x39aa39c021dfbae8fac545936693ac917d5e7563" target="0x39aa39c021dfbae8fac545936693ac917d5e7563">
+      <data key="d16">6</data>
+    </edge>
+    <edge source="0x39aa39c021dfbae8fac545936693ac917d5e7563" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">38445</data>
+    </edge>
+    <edge source="0x39aa39c021dfbae8fac545936693ac917d5e7563" target="0xd8ec56013ea119e7181d231e5048f90fbbe753c0">
+      <data key="d16">20680</data>
+    </edge>
+    <edge source="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">610</data>
+    </edge>
+    <edge source="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7" target="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7">
+      <data key="d16">2777</data>
+    </edge>
+    <edge source="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">3320</data>
+    </edge>
+    <edge source="0x4b0181102a0112a2ef11abee5563bb4a3176c9d7" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">503</data>
+    </edge>
+    <edge source="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">16807</data>
+    </edge>
+    <edge source="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" target="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643">
+      <data key="d16">38378</data>
+    </edge>
+    <edge source="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" target="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">54204</data>
+    </edge>
+    <edge source="0x5d3a536e4d6dbd6114cc1ead35777bab948e3643" target="0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012">
+      <data key="d16">12060</data>
+    </edge>
+    <edge source="0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">2208</data>
+    </edge>
+    <edge source="0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e" target="0xbae04cbf96391086dc643e842b517734e214d698">
+      <data key="d16">1083</data>
+    </edge>
+    <edge source="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">3501</data>
+    </edge>
+    <edge source="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4" target="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4">
+      <data key="d16">14531</data>
+    </edge>
+    <edge source="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">17182</data>
+    </edge>
+    <edge source="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">20058</data>
+    </edge>
+    <edge source="0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">2334</data>
+    </edge>
+    <edge source="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">178</data>
+    </edge>
+    <edge source="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946" target="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946">
+      <data key="d16">1097</data>
+    </edge>
+    <edge source="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">1240</data>
+    </edge>
+    <edge source="0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">141</data>
+    </edge>
+    <edge source="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">201</data>
+    </edge>
+    <edge source="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b" target="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b">
+      <data key="d16">1457</data>
+    </edge>
+    <edge source="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">1632</data>
+    </edge>
+    <edge source="0x95b4ef2869ebd94beb4eee400a99824bf5dc325b" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">170</data>
+    </edge>
+    <edge source="0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">1148</data>
+    </edge>
+    <edge source="0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407" target="0xbae04cbf96391086dc643e842b517734e214d698">
+      <data key="d16">538</data>
+    </edge>
+    <edge source="0xc11b1268c1a384e55c48c2391d8d480264a3a7f4" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">252</data>
+    </edge>
+    <edge source="0xc11b1268c1a384e55c48c2391d8d480264a3a7f4" target="0xbae04cbf96391086dc643e842b517734e214d698">
+      <data key="d16">123</data>
+    </edge>
+    <edge source="0xccf4429db6322d5c611ee964527d42e5d685dd6a" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">5504</data>
+    </edge>
+    <edge source="0xccf4429db6322d5c611ee964527d42e5d685dd6a" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">22380</data>
+    </edge>
+    <edge source="0xccf4429db6322d5c611ee964527d42e5d685dd6a" target="0xccf4429db6322d5c611ee964527d42e5d685dd6a">
+      <data key="d16">18276</data>
+    </edge>
+    <edge source="0xccf4429db6322d5c611ee964527d42e5d685dd6a" target="0xf2e5db36b0682f2cd6bc805c3a4236194e01f4d5">
+      <data key="d16">3723</data>
+    </edge>
+    <edge source="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">382</data>
+    </edge>
+    <edge source="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">2537</data>
+    </edge>
+    <edge source="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">304</data>
+    </edge>
+    <edge source="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c" target="0xe65cdb6479bac1e22340e4e755fae7e509ecd06c">
+      <data key="d16">2222</data>
+    </edge>
+    <edge source="0xf5dce57282a584d2746faf1593d3121fcac444dc" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">77</data>
+    </edge>
+    <edge source="0xf5dce57282a584d2746faf1593d3121fcac444dc" target="0xa1046abfc2598f48c44fb320d281d3f3c0733c9a">
+      <data key="d16">25</data>
+    </edge>
+    <edge source="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">13529</data>
+    </edge>
+    <edge source="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">39257</data>
+    </edge>
+    <edge source="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9" target="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9">
+      <data key="d16">27672</data>
+    </edge>
+    <edge source="0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9" target="0xfb564da37b41b2f6b6edcc3e56fbf523bd9f2012">
+      <data key="d16">10609</data>
+    </edge>
+    <edge source="0xface851a4921ce59e912d19329929ce6da6eb0c7" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">1425</data>
+    </edge>
+    <edge source="0xface851a4921ce59e912d19329929ce6da6eb0c7" target="0xa035b9e130f2b1aedc733eefb1c67ba4c503491f">
+      <data key="d16">7106</data>
+    </edge>
+    <edge source="0xface851a4921ce59e912d19329929ce6da6eb0c7" target="0xd956188795ca6f4a74092ddca33e0ea4ca3a1395">
+      <data key="d16">1052</data>
+    </edge>
+    <edge source="0xface851a4921ce59e912d19329929ce6da6eb0c7" target="0xface851a4921ce59e912d19329929ce6da6eb0c7">
+      <data key="d16">5978</data>
+    </edge>
+    <edge source="0x54a06047087927d9b0fb21c1cf0ebd792764ddb8" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0x54a06047087927d9b0fb21c1cf0ebd792764ddb8" target="0xc77e871657543748c488b0e7e292bdea659344ba">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0x54a06047087927d9b0fb21c1cf0ebd792764ddb8" target="0xe3e7840c05f0d68bad0bd4cffeb77558bd8e9bda">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0xc77e871657543748c488b0e7e292bdea659344ba" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">3</data>
+    </edge>
+    <edge source="0xc77e871657543748c488b0e7e292bdea659344ba" target="0xc0da02939e1441f497fd74f78ce7decb17b66529">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0xe3e7840c05f0d68bad0bd4cffeb77558bd8e9bda" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">3</data>
+    </edge>
+    <edge source="0xe3e7840c05f0d68bad0bd4cffeb77558bd8e9bda" target="0xc0da02939e1441f497fd74f78ce7decb17b66529">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0x6d903f6003cca6255d85cca4d3b5e5146dc33925" target="0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b">
+      <data key="d16">35</data>
+    </edge>
+    <edge source="0x6d903f6003cca6255d85cca4d3b5e5146dc33925" target="0xc0da02939e1441f497fd74f78ce7decb17b66529">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0xc0da02939e1441f497fd74f78ce7decb17b66529" target="0x6d903f6003cca6255d85cca4d3b5e5146dc33925">
+      <data key="d16">198</data>
+    </edge>
+    <edge source="0xc0da02939e1441f497fd74f78ce7decb17b66529" target="0xc00e94cb662c3520282e6f5717214004a7f26888">
+      <data key="d16">327</data>
+    </edge>
+    <edge source="0xf859a1ad94bcf445a406b892ef0d3082f4174088" target="0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5">
+      <data key="d16">1472</data>
+    </edge>
+  </graph>
+</graphml>

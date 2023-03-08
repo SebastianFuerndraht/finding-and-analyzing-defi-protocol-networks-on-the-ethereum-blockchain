@@ -1,0 +1,13 @@
+*.Rhistory
+*.xml
+*.iml
+.idea/
+data/processed/defi-networks-backup
+results/plots/networks/old
+results/plots/degree-distribution
+results/plots/heatmaps/svg
+results/plots/networks/svg
+results/plots/networks/svg-save
+results/plots/networks-per-category/svg
+results/tables/
+results/old/

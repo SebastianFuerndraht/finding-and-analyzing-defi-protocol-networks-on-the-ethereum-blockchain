@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a">
+      <data key="d0">hlETH</data>
+      <data key="d1">hegic</data>
+      <data key="d2">4</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">0.33333340397589023</data>
+      <data key="d9">0.9999995231628226</data>
+      <data key="d10">0.36275986744138167</data>
+      <data key="d11">0.941869008832881</data>
+      <data key="d12">0.3703703703703704</data>
+      <data key="d13">0.4444444444444445</data>
+      <data key="d14">1.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x584bc13c7d411c00c01a62e8019472de68768430">
+      <data key="d0">HEGIC</data>
+      <data key="d1">hegic</data>
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">1.986821571462217e-08</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.08506423332653522</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Hegic: HEGIC Token</data>
+    </node>
+    <node id="0xf4128b00afda933428056d0f0d1d7652af7e2b35">
+      <data key="d0">hegicstaking</data>
+      <data key="d1">hegic</data>
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.25</data>
+      <data key="d7">1.0</data>
+      <data key="d8">0.33333335099397254</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.26778372604298567</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.352880658436214</data>
+      <data key="d13">0.29629629629629634</data>
+      <data key="d14">0.6666666666666667</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x1f533acf0c12d12997c49f4b64192030b6647c46">
+      <data key="d0">Swap</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">9.735425700164864e-07</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.1369349161876704</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84">
+      <data key="d0">rHEGIC</data>
+      <data key="d1">hegic</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.75</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.5497884855881775e-06</data>
+      <data key="d9">1.986821571462217e-08</data>
+      <data key="d10">0.4887007189106465</data>
+      <data key="d11">0.08506423332653522</data>
+      <data key="d12">0.13513374485596716</data>
+      <data key="d13">0.6666666666666667</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Hegic: rHEGIC Token</data>
+    </node>
+    <node id="0x202ec7190f75046348de5ab3a97cc45d7b440680">
+      <data key="d0">WBTC staking (Phase I)</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">9.735425700164864e-07</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.09554433656446427</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7">
+      <data key="d0">WBTC options contract</data>
+      <data key="d1">hegic</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.75</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.5497884855881775e-06</data>
+      <data key="d9">1.986821571462217e-08</data>
+      <data key="d10">0.5745389803926172</data>
+      <data key="d11">0.08506423332653522</data>
+      <data key="d12">0.13513374485596716</data>
+      <data key="d13">0.6666666666666667</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x3961245db602ed7c03eeccda33ea3846bd8723bd">
+      <data key="d0">WBTC options contract</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">6.457170107252203e-06</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.09586139812285695</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x840a1ae46b7364855206eb5b7286ab7e207e515b">
+      <data key="d0">hlWBTC</data>
+      <data key="d1">hegic</data>
+      <data key="d2">3</data>
+      <data key="d3">2</data>
+      <data key="d4">1</data>
+      <data key="d5">0.75</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.3333333333333333</data>
+      <data key="d8">0.33333340397589023</data>
+      <data key="d9">4.967053928655542e-07</data>
+      <data key="d10">0.3771953160068475</data>
+      <data key="d11">0.09002793503573474</data>
+      <data key="d12">0.3703703703703704</data>
+      <data key="d13">0.5079365079365079</data>
+      <data key="d14">0.33333333333333337</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x493134a9eabc8d2b5e08c5ab08e9d413fb4d1a55">
+      <data key="d0">WBTC staking (Phase II)</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">9.735425700164864e-07</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.16905471390696783</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xad7ca17e23f13982796d27d1e6406366def6ee5f">
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.0</data>
+      <data key="d8">2.384186296290567e-06</data>
+      <data key="d9">1.986821571462217e-08</data>
+      <data key="d10">0.42319688555821455</data>
+      <data key="d11">0.08506423332653522</data>
+      <data key="d12">0.10277777777777783</data>
+      <data key="d13">0.4444444444444445</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x8fcaef0dbf40d36e5397ae1979c9075bf34c180e">
+      <data key="d0">ETH staking (Phase II)</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">9.735425700164864e-07</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.17777316780420868</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x878f15ffc8b894a1ba7647c7176e4c01f74e140b">
+      <data key="d0">writeETH</data>
+      <data key="d1">hegic</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.75</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.5497884855881775e-06</data>
+      <data key="d9">1.986821571462217e-08</data>
+      <data key="d10">0.5488504524754899</data>
+      <data key="d11">0.08506423332653522</data>
+      <data key="d12">0.13513374485596716</data>
+      <data key="d13">0.6666666666666667</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x9b18975e64763bda591618cdf02d2f14a9875981">
+      <data key="d0">ETH staking (Phase I)</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">9.735425700164864e-07</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.11723571303366624</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xefc0eeadc1132a12c9487d800112693bf49ecfa2">
+      <data key="d0">ETH options contract</data>
+      <data key="d1">hegic</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.5</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">5.298191769534593e-08</data>
+      <data key="d9">0.9999940395352851</data>
+      <data key="d10">0.22842031939513763</data>
+      <data key="d11">0.11497638621892195</data>
+      <data key="d12">0.03806584362139919</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <edge source="0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a" target="0x584bc13c7d411c00c01a62e8019472de68768430">
+      <data key="d16">41</data>
+    </edge>
+    <edge source="0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a" target="0xf4128b00afda933428056d0f0d1d7652af7e2b35">
+      <data key="d16">6</data>
+    </edge>
+    <edge source="0xf4128b00afda933428056d0f0d1d7652af7e2b35" target="0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a">
+      <data key="d16">1292</data>
+    </edge>
+    <edge source="0xf4128b00afda933428056d0f0d1d7652af7e2b35" target="0x584bc13c7d411c00c01a62e8019472de68768430">
+      <data key="d16">271</data>
+    </edge>
+    <edge source="0xf4128b00afda933428056d0f0d1d7652af7e2b35" target="0x840a1ae46b7364855206eb5b7286ab7e207e515b">
+      <data key="d16">1294</data>
+    </edge>
+    <edge source="0x1f533acf0c12d12997c49f4b64192030b6647c46" target="0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84">
+      <data key="d16">20</data>
+    </edge>
+    <edge source="0x1f533acf0c12d12997c49f4b64192030b6647c46" target="0x584bc13c7d411c00c01a62e8019472de68768430">
+      <data key="d16">95</data>
+    </edge>
+    <edge source="0x202ec7190f75046348de5ab3a97cc45d7b440680" target="0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x202ec7190f75046348de5ab3a97cc45d7b440680" target="0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x3961245db602ed7c03eeccda33ea3846bd8723bd" target="0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7">
+      <data key="d16">13</data>
+    </edge>
+    <edge source="0x3961245db602ed7c03eeccda33ea3846bd8723bd" target="0x840a1ae46b7364855206eb5b7286ab7e207e515b">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x840a1ae46b7364855206eb5b7286ab7e207e515b" target="0x584bc13c7d411c00c01a62e8019472de68768430">
+      <data key="d16">30</data>
+    </edge>
+    <edge source="0x493134a9eabc8d2b5e08c5ab08e9d413fb4d1a55" target="0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7">
+      <data key="d16">72</data>
+    </edge>
+    <edge source="0x493134a9eabc8d2b5e08c5ab08e9d413fb4d1a55" target="0xad7ca17e23f13982796d27d1e6406366def6ee5f">
+      <data key="d16">67</data>
+    </edge>
+    <edge source="0x8fcaef0dbf40d36e5397ae1979c9075bf34c180e" target="0x878f15ffc8b894a1ba7647c7176e4c01f74e140b">
+      <data key="d16">113</data>
+    </edge>
+    <edge source="0x8fcaef0dbf40d36e5397ae1979c9075bf34c180e" target="0xad7ca17e23f13982796d27d1e6406366def6ee5f">
+      <data key="d16">123</data>
+    </edge>
+    <edge source="0x9b18975e64763bda591618cdf02d2f14a9875981" target="0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84">
+      <data key="d16">16</data>
+    </edge>
+    <edge source="0x9b18975e64763bda591618cdf02d2f14a9875981" target="0x878f15ffc8b894a1ba7647c7176e4c01f74e140b">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0xefc0eeadc1132a12c9487d800112693bf49ecfa2" target="0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a">
+      <data key="d16">11</data>
+    </edge>
+    <edge source="0xefc0eeadc1132a12c9487d800112693bf49ecfa2" target="0x878f15ffc8b894a1ba7647c7176e4c01f74e140b">
+      <data key="d16">57</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x05387a10bb3ef789b6c2a9ce2d6c21d5a8c6b1aa">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.13451498389698224</data>
+      <data key="d11">0.09962904740614115</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.009259259259259259</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x4a144820a415bdfa0030937608743cae1d392029">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.8654047550254986e-06</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.24600205403961994</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.24105145063333958</data>
+      <data key="d13">0.6887755102040816</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe3cb486f3f5c639e98ccbaf57d95369375687f80">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.24999579911407954</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.2263491592563039</data>
+      <data key="d11">0.059509156024715223</data>
+      <data key="d12">0.27344234758791847</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.08333333333333333</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x098e1708b920efbdd7afe33adb6a4cba30c370b9">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.13461220038280444</data>
+      <data key="d11">0.9428418023030262</data>
+      <data key="d12">0.20056282944011625</data>
+      <data key="d13">0.2040816326530612</data>
+      <data key="d14">0.7777777777777778</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xb032012073765a74f8f8fe2e6685ad70253058fa">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.13333333333333333</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">0.9999973553824415</data>
+      <data key="d10">0.1748453542808669</data>
+      <data key="d11">0.9067743038717764</data>
+      <data key="d12">0.20056282944011625</data>
+      <data key="d13">0.2040816326530612</data>
+      <data key="d14">0.14814814814814814</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe33417797d6b8aec9171d0d6516e88002fbe23e7">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">8</data>
+      <data key="d3">1</data>
+      <data key="d4">7</data>
+      <data key="d5">0.5333333333333333</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.4666666666666667</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">2.689321043849391e-06</data>
+      <data key="d10">0.20845836702058526</data>
+      <data key="d11">0.13556182668406383</data>
+      <data key="d12">0.20056282944011625</data>
+      <data key="d13">0.22959183673469385</data>
+      <data key="d14">1.0</data>
+      <data key="d15">RenVM: Darknodes Fee renBTC</data>
+    </node>
+    <node id="0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.2499957991140796</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.2322973978153088</data>
+      <data key="d11">0.05830200877965186</data>
+      <data key="d12">0.2734423475879185</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.09876543209876543</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.7499974479903246</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.8066931014864246</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.7273624107652099</data>
+      <data key="d13">0.7408163265306122</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x2362843745615368f4ef0a43d7502353649c0783">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">2</data>
+      <data key="d4">2</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">5.3084408904869394e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.16324810299466264</data>
+      <data key="d11">0.11694299416963222</data>
+      <data key="d12">0.081227945923247</data>
+      <data key="d13">0.3061224489795918</data>
+      <data key="d14">0.046296296296296294</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x3832d2f059e55934220881f831be501d180671a7">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">5</data>
+      <data key="d3">4</data>
+      <data key="d4">1</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.24999617722407985</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.32135622568493954</data>
+      <data key="d11">0.08682353275686171</data>
+      <data key="d12">0.3207501049821059</data>
+      <data key="d13">0.5769230769230769</data>
+      <data key="d14">0.12037037037037036</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">5</data>
+      <data key="d3">1</data>
+      <data key="d4">4</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.26666666666666666</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">0.9999998415058239</data>
+      <data key="d10">0.28306152688770475</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.20056282944011625</data>
+      <data key="d13">0.2040816326530612</data>
+      <data key="d14">0.6296296296296297</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x33b53a700de61b6be01d65a758b3635584bcf140">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.06666666666666667</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.1852156210568807</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.2005628294401163</data>
+      <data key="d13">0.22959183673469385</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x408e41876cccdc0f92210600ef50372656052a38">
+      <data key="d0">REN Token</data>
+      <data key="d1">renvm</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">0.13333333333333333</data>
+      <data key="d6">0.5</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.4999907889237496</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.41222649226236624</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.3710412344642152</data>
+      <data key="d13">0.3498542274052478</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x60ab11fe605d2a2c3cf351824816772a131f8782">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.13333333333333333</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.24999539492752754</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.3087624340738562</data>
+      <data key="d11">0.07645136246785447</data>
+      <data key="d12">0.2005628294401163</data>
+      <data key="d13">0.22959183673469385</data>
+      <data key="d14">0.0</data>
+      <data key="d15">RenVM: Darknode Staking</data>
+    </node>
+    <node id="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">15</data>
+      <data key="d3">0</data>
+      <data key="d4">15</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">9.313054193836731e-10</data>
+      <data key="d9">2.8703701598350146e-05</data>
+      <data key="d10">0.13444295817319216</data>
+      <data key="d11">0.8034238906947722</data>
+      <data key="d12">0.030084424416017407</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x459086f2376525bdceba5bdda135e4e9d3fef5bf">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.2499957991140796</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.22159042216813268</data>
+      <data key="d11">0.0569091683182743</data>
+      <data key="d12">0.2734423475879185</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.09876543209876543</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x52d87f22192131636f93c5ab18d0127ea52cb641">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.2499957991140796</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.2246856201577692</data>
+      <data key="d11">0.057505230459039415</data>
+      <data key="d12">0.2734423475879186</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.08333333333333333</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xc3bbd5adb611dd74eca6123f05b18acc886e122d">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.13525581991310862</data>
+      <data key="d11">0.09476430277948322</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.012345679012345678</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xcc4ff5b8a4a7adb35f00ff0cbf53784e07c3c52f">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.1345252732860951</data>
+      <data key="d11">0.08525506887838322</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.012345679012345678</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.2499957991140796</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.24589262785377283</data>
+      <data key="d11">0.07157627301802397</data>
+      <data key="d12">0.2734423475879186</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.08333333333333333</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xd7d7deab930b6d3f98b35a26a4c431630d5ab874">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.13446353695141788</data>
+      <data key="d11">0.09416987165248972</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.009259259259259259</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe4b679400f0f267212d5d812b95f58c83243ee71">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.16117479108841998</data>
+      <data key="d11">0.1763256810275419</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.012345679012345678</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe80d347df1209a76dd9d2319d62912ba98c54ddd">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.06666666666666667</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.0</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.19157993591694122</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xeb4c2781e4eba804ce9a9803c67d0893436bb27d">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">3</data>
+      <data key="d4">1</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.06666666666666667</data>
+      <data key="d8">0.2499957991140796</data>
+      <data key="d9">2.8447672545441184e-08</data>
+      <data key="d10">0.33698028509275685</data>
+      <data key="d11">0.10341658408936281</data>
+      <data key="d12">0.2734423475879186</data>
+      <data key="d13">0.4591836734693877</data>
+      <data key="d14">0.09876543209876543</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xed7d080aa1d2a4d468c615a5d481125bb56bf1bf">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.13333333333333333</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">4.1249125190889716e-07</data>
+      <data key="d10">0.13517350480020568</data>
+      <data key="d11">0.1218299430895529</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.009259259259259259</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xa074139a4975318e7c011783031504d1c177f8ca">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">4</data>
+      <data key="d3">4</data>
+      <data key="d4">0</data>
+      <data key="d5">0.26666666666666666</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xae65b0f676313fd715f29d07538d1dc8557f2b1a">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.19999999999999998</data>
+      <data key="d8">9.313054193836731e-10</data>
+      <data key="d9">4.124912519088971e-06</data>
+      <data key="d10">0.13444295817319216</data>
+      <data key="d11">0.12355063026265012</data>
+      <data key="d12">0.030084424416017407</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x503670ec851c55ec1acfb5230192da921467a24e">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.06666666666666667</data>
+      <data key="d6">0.25</data>
+      <data key="d7">0.0</data>
+      <data key="d8">2.7007857162126527e-08</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.19157993591694122</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.05565618516963221</data>
+      <data key="d13">0.1530612244897959</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xd0da0d062d18cc70be85ff94afa880ecee66eedd">
+      <data key="d0">Deployer</data>
+      <data key="d1">renvm</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.19999999999999998</data>
+      <data key="d6">0.75</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.1352613062286982e-06</data>
+      <data key="d9">1.0159883051943278e-09</data>
+      <data key="d10">0.23763160830409594</data>
+      <data key="d11">0.05678643107135135</data>
+      <data key="d12">0.1720076965985796</data>
+      <data key="d13">0.4897959183673469</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <edge source="0x05387a10bb3ef789b6c2a9ce2d6c21d5a8c6b1aa" target="0x4a144820a415bdfa0030937608743cae1d392029">
+      <data key="d16">23</data>
+    </edge>
+    <edge source="0x05387a10bb3ef789b6c2a9ce2d6c21d5a8c6b1aa" target="0xe3cb486f3f5c639e98ccbaf57d95369375687f80">
+      <data key="d16">73</data>
+    </edge>
+    <edge source="0xe3cb486f3f5c639e98ccbaf57d95369375687f80" target="0xa074139a4975318e7c011783031504d1c177f8ca">
+      <data key="d16">250</data>
+    </edge>
+    <edge source="0x098e1708b920efbdd7afe33adb6a4cba30c370b9" target="0xb032012073765a74f8f8fe2e6685ad70253058fa">
+      <data key="d16">726</data>
+    </edge>
+    <edge source="0x098e1708b920efbdd7afe33adb6a4cba30c370b9" target="0xe33417797d6b8aec9171d0d6516e88002fbe23e7">
+      <data key="d16">1330</data>
+    </edge>
+    <edge source="0xb032012073765a74f8f8fe2e6685ad70253058fa" target="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a">
+      <data key="d16">726</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2">
+      <data key="d16">54</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0x3832d2f059e55934220881f831be501d180671a7">
+      <data key="d16">190</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0x459086f2376525bdceba5bdda135e4e9d3fef5bf">
+      <data key="d16">16</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0x52d87f22192131636f93c5ab18d0127ea52cb641">
+      <data key="d16">12</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5">
+      <data key="d16">75</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0xe3cb486f3f5c639e98ccbaf57d95369375687f80">
+      <data key="d16">18</data>
+    </edge>
+    <edge source="0xe33417797d6b8aec9171d0d6516e88002fbe23e7" target="0xeb4c2781e4eba804ce9a9803c67d0893436bb27d">
+      <data key="d16">287</data>
+    </edge>
+    <edge source="0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2" target="0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80">
+      <data key="d16">1667</data>
+    </edge>
+    <edge source="0x2362843745615368f4ef0a43d7502353649c0783" target="0x3832d2f059e55934220881f831be501d180671a7">
+      <data key="d16">277</data>
+    </edge>
+    <edge source="0x2362843745615368f4ef0a43d7502353649c0783" target="0x4a144820a415bdfa0030937608743cae1d392029">
+      <data key="d16">84</data>
+    </edge>
+    <edge source="0x3832d2f059e55934220881f831be501d180671a7" target="0xa074139a4975318e7c011783031504d1c177f8ca">
+      <data key="d16">2758</data>
+    </edge>
+    <edge source="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a" target="0x098e1708b920efbdd7afe33adb6a4cba30c370b9">
+      <data key="d16">6</data>
+    </edge>
+    <edge source="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a" target="0x33b53a700de61b6be01d65a758b3635584bcf140">
+      <data key="d16">1800</data>
+    </edge>
+    <edge source="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a" target="0x408e41876cccdc0f92210600ef50372656052a38">
+      <data key="d16">544</data>
+    </edge>
+    <edge source="0x2d7b6c95afeffa50c068d50f89c5c0014e054f0a" target="0x60ab11fe605d2a2c3cf351824816772a131f8782">
+      <data key="d16">6180</data>
+    </edge>
+    <edge source="0x60ab11fe605d2a2c3cf351824816772a131f8782" target="0x408e41876cccdc0f92210600ef50372656052a38">
+      <data key="d16">374</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x05387a10bb3ef789b6c2a9ce2d6c21d5a8c6b1aa">
+      <data key="d16">7</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2">
+      <data key="d16">79</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x2362843745615368f4ef0a43d7502353649c0783">
+      <data key="d16">23</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x3832d2f059e55934220881f831be501d180671a7">
+      <data key="d16">23</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x459086f2376525bdceba5bdda135e4e9d3fef5bf">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0x52d87f22192131636f93c5ab18d0127ea52cb641">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xc3bbd5adb611dd74eca6123f05b18acc886e122d">
+      <data key="d16">79</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xcc4ff5b8a4a7adb35f00ff0cbf53784e07c3c52f">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5">
+      <data key="d16">70</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xd7d7deab930b6d3f98b35a26a4c431630d5ab874">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xe3cb486f3f5c639e98ccbaf57d95369375687f80">
+      <data key="d16">7</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xe4b679400f0f267212d5d812b95f58c83243ee71">
+      <data key="d16">2598</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xe80d347df1209a76dd9d2319d62912ba98c54ddd">
+      <data key="d16">5553</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xeb4c2781e4eba804ce9a9803c67d0893436bb27d">
+      <data key="d16">2576</data>
+    </edge>
+    <edge source="0x32666b64e9fd0f44916e1378efb2cfa3b3b96e80" target="0xed7d080aa1d2a4d468c615a5d481125bb56bf1bf">
+      <data key="d16">71</data>
+    </edge>
+    <edge source="0x459086f2376525bdceba5bdda135e4e9d3fef5bf" target="0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80">
+      <data key="d16">135</data>
+    </edge>
+    <edge source="0x52d87f22192131636f93c5ab18d0127ea52cb641" target="0xa074139a4975318e7c011783031504d1c177f8ca">
+      <data key="d16">66</data>
+    </edge>
+    <edge source="0xc3bbd5adb611dd74eca6123f05b18acc886e122d" target="0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2">
+      <data key="d16">379</data>
+    </edge>
+    <edge source="0xc3bbd5adb611dd74eca6123f05b18acc886e122d" target="0xd0da0d062d18cc70be85ff94afa880ecee66eedd">
+      <data key="d16">150</data>
+    </edge>
+    <edge source="0xcc4ff5b8a4a7adb35f00ff0cbf53784e07c3c52f" target="0x459086f2376525bdceba5bdda135e4e9d3fef5bf">
+      <data key="d16">34</data>
+    </edge>
+    <edge source="0xcc4ff5b8a4a7adb35f00ff0cbf53784e07c3c52f" target="0xd0da0d062d18cc70be85ff94afa880ecee66eedd">
+      <data key="d16">13</data>
+    </edge>
+    <edge source="0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5" target="0xa074139a4975318e7c011783031504d1c177f8ca">
+      <data key="d16">1358</data>
+    </edge>
+    <edge source="0xd7d7deab930b6d3f98b35a26a4c431630d5ab874" target="0x4a144820a415bdfa0030937608743cae1d392029">
+      <data key="d16">11</data>
+    </edge>
+    <edge source="0xd7d7deab930b6d3f98b35a26a4c431630d5ab874" target="0x52d87f22192131636f93c5ab18d0127ea52cb641">
+      <data key="d16">35</data>
+    </edge>
+    <edge source="0xe4b679400f0f267212d5d812b95f58c83243ee71" target="0xd0da0d062d18cc70be85ff94afa880ecee66eedd">
+      <data key="d16">5431</data>
+    </edge>
+    <edge source="0xe4b679400f0f267212d5d812b95f58c83243ee71" target="0xeb4c2781e4eba804ce9a9803c67d0893436bb27d">
+      <data key="d16">13665</data>
+    </edge>
+    <edge source="0xeb4c2781e4eba804ce9a9803c67d0893436bb27d" target="0xe2d6ccac3ee3a21abf7bedbe2e107ffc0c037e80">
+      <data key="d16">51289</data>
+    </edge>
+    <edge source="0xed7d080aa1d2a4d468c615a5d481125bb56bf1bf" target="0x4a144820a415bdfa0030937608743cae1d392029">
+      <data key="d16">97</data>
+    </edge>
+    <edge source="0xed7d080aa1d2a4d468c615a5d481125bb56bf1bf" target="0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5">
+      <data key="d16">357</data>
+    </edge>
+    <edge source="0xae65b0f676313fd715f29d07538d1dc8557f2b1a" target="0x2362843745615368f4ef0a43d7502353649c0783">
+      <data key="d16">5</data>
+    </edge>
+    <edge source="0xae65b0f676313fd715f29d07538d1dc8557f2b1a" target="0x3832d2f059e55934220881f831be501d180671a7">
+      <data key="d16">5</data>
+    </edge>
+    <edge source="0xae65b0f676313fd715f29d07538d1dc8557f2b1a" target="0x503670ec851c55ec1acfb5230192da921467a24e">
+      <data key="d16">10</data>
+    </edge>
+  </graph>
+</graphml>

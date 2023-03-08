@@ -1,0 +1,61 @@
+{
+  "seed_category": {
+    "derivatives": 790,
+    "assets": 601,
+    "lending": 479,
+    "dex": 150
+  },
+  "seed_protocol": {
+    "synthetix": 654,
+    "maker": 296,
+    "fei": 193,
+    "badger": 157,
+    "vesper": 112,
+    "instadapp": 67,
+    "yearn": 66,
+    "compound": 64,
+    "barnbridge": 57,
+    "curvefinance": 52,
+    "renvm": 50,
+    "aave": 42,
+    "1inch": 34,
+    "dydx": 33,
+    "uniswap": 30,
+    "nexus": 24,
+    "sushiswap": 22,
+    "convex": 20,
+    "hegic": 19,
+    "0x": 17,
+    "balancer": 9,
+    "futureswap": 2
+  },
+  "seed_extended_category": {
+    "dex": 27894,
+    "lending": 16143,
+    "assets": 869,
+    "derivatives": 354
+  },
+  "seed_extended_protocol": {
+    "uniswap": 21243,
+    "maker": 12524,
+    "1inch": 4530,
+    "instadapp": 3470,
+    "sushiswap": 1826,
+    "badger": 252,
+    "synthetix": 247,
+    "balancer": 232,
+    "convex": 198,
+    "fei": 174,
+    "vesper": 139,
+    "aave": 111,
+    "yearn": 55,
+    "curvefinance": 51,
+    "renvm": 51,
+    "barnbridge": 43,
+    "compound": 38,
+    "nexus": 24,
+    "dydx": 24,
+    "hegic": 16,
+    "0x": 12
+  }
+}

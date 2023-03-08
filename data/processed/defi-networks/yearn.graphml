@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x0001fb050fe7312791bf6475b96569d83f695c9f">
+      <data key="d0">YearnRewards (Yearn v1)</data>
+      <data key="d1">yearn</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">1.9073500880051334e-07</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.23215399697164968</data>
+      <data key="d11">0.009576306960799318</data>
+      <data key="d12">0.0340909090909091</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Ygov.finance: yearn </data>
+    </node>
+    <node id="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d0">YFI Token</data>
+      <data key="d1">yearn</data>
+      <data key="d2">5</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">0.26315789473684215</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.40001155854153336</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.5073863636363637</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x19d3364a399d251e894ac732651be8b0e4e85001">
+      <data key="d0">yvDAI</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.23815884703914558</data>
+      <data key="d11">0.009826477248101777</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">1.0</data>
+      <data key="d15">yearn: yDAI Vault V2</data>
+    </node>
+    <node id="0xe11ba472f74869176652c35d30db89854b5ae84d">
+      <data key="d0">yvHEGIC</data>
+      <data key="d1">yearn</data>
+      <data key="d2">3</data>
+      <data key="d3">3</data>
+      <data key="d4">0</data>
+      <data key="d5">0.15789473684210528</data>
+      <data key="d6">0.6</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.6000000762940035</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.8866805255028186</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.6136363636363636</data>
+      <data key="d13">0.6400000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yvHEGIC Vault</data>
+    </node>
+    <node id="0x27b7b1ad7288079a66d12350c828d3c00a6f07d7">
+      <data key="d0">yvCurve-IronBank</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.24266248458976747</data>
+      <data key="d11">0.011841994778724713</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yCRV-IB Vault</data>
+    </node>
+    <node id="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d0">yvCurve-sETH</data>
+      <data key="d1">yearn</data>
+      <data key="d2">5</data>
+      <data key="d3">5</data>
+      <data key="d4">0</data>
+      <data key="d5">0.26315789473684215</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.9334691445961926</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yCRV/sETH Vault</data>
+    </node>
+    <node id="0x5f18c75abdae578b483e5f43f12a39cf75b973a9">
+      <data key="d0">yvUSDC</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.275689159960995</data>
+      <data key="d11">0.014092605479216288</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">1.0</data>
+      <data key="d15">yearn: yUSDC Vault V2</data>
+    </node>
+    <node id="0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a">
+      <data key="d0">yvBOOST</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.2366576345222716</data>
+      <data key="d11">0.017704147450416503</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yvBOOST Vault</data>
+    </node>
+    <node id="0xc5bddf9843308380375a611c18b50fb9341f502a">
+      <data key="d0">yveCRV-DAO</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.4</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.40000011444100536</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.4363188992665105</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.42045454545454547</data>
+      <data key="d13">0.4</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yveCRV-DAO Vault</data>
+    </node>
+    <node id="0xa9fe4601811213c340e850ea305481aff02f5b28">
+      <data key="d0">yvWETH</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.2471661221403894</data>
+      <data key="d11">0.010403632195050184</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yCRV/WETH Vault</data>
+    </node>
+    <node id="0xb8c3b7a2a618c552c23b1e4701109a9e756bab67">
+      <data key="d0">yv1INCH</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.23966005955601952</data>
+      <data key="d11">0.010624333332227757</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yCRV/1Inch Vault</data>
+    </node>
+    <node id="0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1">
+      <data key="d0">YFI</data>
+      <data key="d1">yearn</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">1.9073500880051334e-07</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.23215399697164968</data>
+      <data key="d11">0.009860961737398383</data>
+      <data key="d12">0.0340909090909091</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yYFI Vault</data>
+    </node>
+    <node id="0xd0660cd418a64a1d44e9214ad8e459324d8157f1">
+      <data key="d0">WOOFY</data>
+      <data key="d1">yearn</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">1.9073500880051334e-07</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.23215399697164968</data>
+      <data key="d11">0.010681826674567779</data>
+      <data key="d12">0.0340909090909091</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Yearn: WOOFY Token</data>
+    </node>
+    <node id="0xdcd90c7f6324cfa40d7169ef80b12031770b4325">
+      <data key="d0">yvCurve-stETH</data>
+      <data key="d1">yearn</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.10526315789473685</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.05555555555555555</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.4128705014468189e-06</data>
+      <data key="d10">0.25617339724163324</data>
+      <data key="d11">0.012941255610642325</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">1.0</data>
+      <data key="d15">yearn: yCRV/stETH Vault</data>
+    </node>
+    <node id="0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1">
+      <data key="d0">yvYFI</data>
+      <data key="d1">yearn</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.15789473684210528</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.1111111111111111</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">2.7550974778212964e-06</data>
+      <data key="d10">0.24416369710664146</data>
+      <data key="d11">0.02023059148846051</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+      <data key="d15">yearn: yCRV/YFI Vault</data>
+    </node>
+    <node id="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52">
+      <data key="d0">VaultRegistryV2</data>
+      <data key="d1">yearn</data>
+      <data key="d2">19</data>
+      <data key="d3">1</data>
+      <data key="d4">18</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.2</data>
+      <data key="d7">1.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.2366576345222716</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">Yearn: Treasury</data>
+    </node>
+    <node id="0x5dbcf33d8c2e976c6b560249878e6f1491bca25c">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.23365520948852364</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x625b7df2fa8abe21b0a976736cda4775523aed1e">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.23815884703914558</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x7047f90229a057c13bf847c0744d646cfb6c9e1a">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.2366576345222716</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x8414db07a7f743debafb402070ab01a4e0d2e45e">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.2366576345222716</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0x9ca85572e6a3ebf24dedd195623f188735a5179f">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.23515642200539763</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xb4d1be44bff40ad6e506edf43156577a3f8672ec">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.052631578947368425</data>
+      <data key="d6">0.2</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.20000015258800707</data>
+      <data key="d9">7.064352507234095e-08</data>
+      <data key="d10">0.23365520948852364</data>
+      <data key="d11">0.009574100334624133</data>
+      <data key="d12">0.2272727272727273</data>
+      <data key="d13">0.2</data>
+      <data key="d14">0.0</data>
+    </node>
+    <edge source="0x0001fb050fe7312791bf6475b96569d83f695c9f" target="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0x19d3364a399d251e894ac732651be8b0e4e85001" target="0xe11ba472f74869176652c35d30db89854b5ae84d">
+      <data key="d16">395</data>
+    </edge>
+    <edge source="0x27b7b1ad7288079a66d12350c828d3c00a6f07d7" target="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d16">894</data>
+    </edge>
+    <edge source="0x5f18c75abdae578b483e5f43f12a39cf75b973a9" target="0xe11ba472f74869176652c35d30db89854b5ae84d">
+      <data key="d16">7072</data>
+    </edge>
+    <edge source="0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a" target="0xc5bddf9843308380375a611c18b50fb9341f502a">
+      <data key="d16">2035</data>
+    </edge>
+    <edge source="0xa9fe4601811213c340e850ea305481aff02f5b28" target="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d16">327</data>
+    </edge>
+    <edge source="0xb8c3b7a2a618c552c23b1e4701109a9e756bab67" target="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d16">414</data>
+    </edge>
+    <edge source="0xba2e7fed597fd0e3e70f5130bcdbbfe06bb94fe1" target="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d16">130</data>
+    </edge>
+    <edge source="0xd0660cd418a64a1d44e9214ad8e459324d8157f1" target="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d16">502</data>
+    </edge>
+    <edge source="0xdcd90c7f6324cfa40d7169ef80b12031770b4325" target="0xe11ba472f74869176652c35d30db89854b5ae84d">
+      <data key="d16">5270</data>
+    </edge>
+    <edge source="0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1" target="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d16">3029</data>
+    </edge>
+    <edge source="0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1" target="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d16">1566</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e">
+      <data key="d16">26</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x19d3364a399d251e894ac732651be8b0e4e85001">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x27b7b1ad7288079a66d12350c828d3c00a6f07d7">
+      <data key="d16">7</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x5dbcf33d8c2e976c6b560249878e6f1491bca25c">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x5f18c75abdae578b483e5f43f12a39cf75b973a9">
+      <data key="d16">29</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x625b7df2fa8abe21b0a976736cda4775523aed1e">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x7047f90229a057c13bf847c0744d646cfb6c9e1a">
+      <data key="d16">3</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x8414db07a7f743debafb402070ab01a4e0d2e45e">
+      <data key="d16">3</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x986b4aff588a109c09b50a03f42e4110e29d353f">
+      <data key="d16">7</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x9ca85572e6a3ebf24dedd195623f188735a5179f">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a">
+      <data key="d16">3</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xa9fe4601811213c340e850ea305481aff02f5b28">
+      <data key="d16">10</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xb4d1be44bff40ad6e506edf43156577a3f8672ec">
+      <data key="d16">1</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xb8c3b7a2a618c552c23b1e4701109a9e756bab67">
+      <data key="d16">5</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xc5bddf9843308380375a611c18b50fb9341f502a">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xdcd90c7f6324cfa40d7169ef80b12031770b4325">
+      <data key="d16">16</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52" target="0xfeb4acf3df3cdea7399794d0869ef76a6efaff52">
+      <data key="d16">3</data>
+    </edge>
+  </graph>
+</graphml>

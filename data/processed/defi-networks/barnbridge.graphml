@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x10e138877df69ca44fdc68655f86c88cde142d7f">
+      <data key="d0">Barn (Governance Staking)</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">4</data>
+      <data key="d3">1</data>
+      <data key="d4">3</data>
+      <data key="d5">0.33333333333333337</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">1.0</data>
+      <data key="d8">0.4999964386478411</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.15136019828955738</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.31999999999999995</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">1.0</data>
+      <data key="d15">BarnBridge: Barn</data>
+    </node>
+    <node id="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d0">BOND Token</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">12</data>
+      <data key="d3">12</data>
+      <data key="d4">0</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">BarnBridge: BOND Token</data>
+    </node>
+    <node id="0x9d0cf50547d848cc4b6a12bedcf7696e9b334a22">
+      <data key="d0">DAO Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.25</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">0.4999964386478411</data>
+      <data key="d9">0.999999952316282</data>
+      <data key="d10">0.12559727187509312</data>
+      <data key="d11">0.9786552639668402</data>
+      <data key="d12">0.31999999999999995</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">BarnBridge: Rewards</data>
+    </node>
+    <node id="0xa62da56e9a330646386365dc6b2945b5c4d120ed">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0.4999964386478411</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.19266138567441785</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.32</data>
+      <data key="d13">0.11111111111111112</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840">
+      <data key="d0">bb_cUSDC (Compound)</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">1</data>
+      <data key="d4">1</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.33333333333333337</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">1.1444092342571847e-06</data>
+      <data key="d10">0.12097978868860897</data>
+      <data key="d11">0.15564290972109987</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">1.0</data>
+      <data key="d15">BarnBridge: Smart YIELD</data>
+    </node>
+    <node id="0xdaa037f99d168b552c0c61b7fb64cf7819d78310">
+      <data key="d0">bb_amDAI (Polygon Aave)</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">8.970435144484053e-06</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.21146845263741942</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.12348</data>
+      <data key="d13">0.11111111111111112</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x51d924bf2ff813a68bd5f86cdcc98918f2ae5868">
+      <data key="d0">aUSDT Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15602613748075075</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x660daf6643191cf0ed045b861d820f283ca078fc">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12446650454780488</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x68af34129755091e22f91899ceac48657e5a5062">
+      <data key="d0">PoolFactory</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">1.4305115428214812e-05</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.22154522962612327</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x69951b60b6253697f29c8311bfcea6da09bbac0d">
+      <data key="d0">aDAI Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15600301166766836</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x6c9dae2c40b1e5883847bf5129764e76cb69fc57">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12529964457358506</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x707c1bd52c4718bf040f350f7fe6ba0adb484e8d">
+      <data key="d0">crDAI Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.1558411309760917</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x89d82fdf095083ded96b48fc6462ed5dbd14151f">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12402679175642087</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x7f7d4dfd9733ae12e6a5991d42af16418f227b6e">
+      <data key="d0">crUSDC Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15602613748075075</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x62e479060c89c48199fc7ad43b1432cc585ba1b9">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12500912884355533</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xb3f7abf8fa1df0ff61c5ac38d35e20490419f4bb">
+      <data key="d0">Pool 1 (Stablecoins Deprecated)</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.33333333333333337</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">1.1444092342571847e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.08416762885862723</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xc25c37c387c5c909a94055f4f16184ca325d3a76">
+      <data key="d0">Pool 2 (Uniswap BOND/USDC LP)</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.33333333333333337</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">1.1444092342571847e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.09069901921060819</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xea32e4e751d49757906e1153ef7a30fcab1b6462">
+      <data key="d0">crUSDT Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15577175353684453</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xc45f49be156888a1c0c93dc0fe7dc89091e291f5">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12435423745213234</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xeadfc8b994bf3ee23dc0033e6f11dee4b166672e">
+      <data key="d0">aGUSD Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15596997479183639</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x6324538cc222b43490dd95cebf72cf09d98d9dae">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12415611904800437</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+    </node>
+    <node id="0xf4bde50cdf4ee4cf3fb8702fceb6fd499a92792d">
+      <data key="d0">aUSDC Rewards Pool</data>
+      <data key="d1">barnbridge</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">2</data>
+      <data key="d5">0.16666666666666669</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.6666666666666667</data>
+      <data key="d8">2.980211011456496e-08</data>
+      <data key="d9">2.2411347504203207e-06</data>
+      <data key="d10">0.10863684405798102</data>
+      <data key="d11">0.15662740862089267</data>
+      <data key="d12">0.048000000000000015</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x3cf46da7d65e9aa2168a31b73dd4beea5ca1a1f1">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.08333333333333334</data>
+      <data key="d6">0.08333333333333334</data>
+      <data key="d7">0.0</data>
+      <data key="d8">7.450527528641243e-07</data>
+      <data key="d9">4.768371809404938e-08</data>
+      <data key="d10">0.12453979001303551</data>
+      <data key="d11">0.08413128829521205</data>
+      <data key="d12">0.08880000000000002</data>
+      <data key="d13">0.08333333333333334</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <edge source="0x10e138877df69ca44fdc68655f86c88cde142d7f" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">3772</data>
+    </edge>
+    <edge source="0x10e138877df69ca44fdc68655f86c88cde142d7f" target="0x9d0cf50547d848cc4b6a12bedcf7696e9b334a22">
+      <data key="d16">2312</data>
+    </edge>
+    <edge source="0x10e138877df69ca44fdc68655f86c88cde142d7f" target="0xa62da56e9a330646386365dc6b2945b5c4d120ed">
+      <data key="d16">11454</data>
+    </edge>
+    <edge source="0x9d0cf50547d848cc4b6a12bedcf7696e9b334a22" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">13489</data>
+    </edge>
+    <edge source="0x9d0cf50547d848cc4b6a12bedcf7696e9b334a22" target="0x10e138877df69ca44fdc68655f86c88cde142d7f">
+      <data key="d16">9000</data>
+    </edge>
+    <edge source="0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840" target="0xdaa037f99d168b552c0c61b7fb64cf7819d78310">
+      <data key="d16">550</data>
+    </edge>
+    <edge source="0x51d924bf2ff813a68bd5f86cdcc98918f2ae5868" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">116</data>
+    </edge>
+    <edge source="0x51d924bf2ff813a68bd5f86cdcc98918f2ae5868" target="0x660daf6643191cf0ed045b861d820f283ca078fc">
+      <data key="d16">24</data>
+    </edge>
+    <edge source="0x68af34129755091e22f91899ceac48657e5a5062" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">1549</data>
+    </edge>
+    <edge source="0x68af34129755091e22f91899ceac48657e5a5062" target="0x4b8d90d68f26def303dcb6cfc9b63a1aaec15840">
+      <data key="d16">239</data>
+    </edge>
+    <edge source="0x69951b60b6253697f29c8311bfcea6da09bbac0d" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">109</data>
+    </edge>
+    <edge source="0x69951b60b6253697f29c8311bfcea6da09bbac0d" target="0x6c9dae2c40b1e5883847bf5129764e76cb69fc57">
+      <data key="d16">24</data>
+    </edge>
+    <edge source="0x707c1bd52c4718bf040f350f7fe6ba0adb484e8d" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">60</data>
+    </edge>
+    <edge source="0x707c1bd52c4718bf040f350f7fe6ba0adb484e8d" target="0x89d82fdf095083ded96b48fc6462ed5dbd14151f">
+      <data key="d16">12</data>
+    </edge>
+    <edge source="0x7f7d4dfd9733ae12e6a5991d42af16418f227b6e" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">116</data>
+    </edge>
+    <edge source="0x7f7d4dfd9733ae12e6a5991d42af16418f227b6e" target="0x62e479060c89c48199fc7ad43b1432cc585ba1b9">
+      <data key="d16">25</data>
+    </edge>
+    <edge source="0xb3f7abf8fa1df0ff61c5ac38d35e20490419f4bb" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">11</data>
+    </edge>
+    <edge source="0xc25c37c387c5c909a94055f4f16184ca325d3a76" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">1988</data>
+    </edge>
+    <edge source="0xea32e4e751d49757906e1153ef7a30fcab1b6462" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">39</data>
+    </edge>
+    <edge source="0xea32e4e751d49757906e1153ef7a30fcab1b6462" target="0xc45f49be156888a1c0c93dc0fe7dc89091e291f5">
+      <data key="d16">8</data>
+    </edge>
+    <edge source="0xeadfc8b994bf3ee23dc0033e6f11dee4b166672e" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">99</data>
+    </edge>
+    <edge source="0xeadfc8b994bf3ee23dc0033e6f11dee4b166672e" target="0x6324538cc222b43490dd95cebf72cf09d98d9dae">
+      <data key="d16">20</data>
+    </edge>
+    <edge source="0xf4bde50cdf4ee4cf3fb8702fceb6fd499a92792d" target="0x0391d2021f89dc339f60fff84546ea23e337750f">
+      <data key="d16">298</data>
+    </edge>
+    <edge source="0xf4bde50cdf4ee4cf3fb8702fceb6fd499a92792d" target="0x3cf46da7d65e9aa2168a31b73dd4beea5ca1a1f1">
+      <data key="d16">62</data>
+    </edge>
+  </graph>
+</graphml>

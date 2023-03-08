@@ -1,0 +1,31 @@
+{
+    "assets": {
+        "badger": "badger",
+        "convex": "convex",
+        "fei": "fei",
+        "renvm":  "renvm",
+        "vesper": "vesper",
+        "yearn": "yearn"
+    },
+    "derivatives": {
+        "barnbridge":  "barnbridge",
+        "dydx": "dydx",
+        "hegic":  "hegic",
+        "nexus": "nexus",
+        "synthetix": "synthetix"
+    },
+    "dex": {
+        "0x":  "0x",
+        "1inch": "1inch",
+        "balancer":  "balancer",
+        "curvefinance": "curvefinance",
+        "sushiswap":  "sushiswap",
+        "uniswap": "uniswap"
+    },
+    "lending": {
+        "aave":  "aave",
+        "compound": "compound",
+        "instadapp":  "instadapp",
+        "maker": "maker"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "assets": {
+        "badger": "badger",
+        "convex": "convex",
+        "vesper": "vesper",
+        "yearn": "yearn"
+    },
+    "derivatives": {
+        "barnbridge":  "barnbridge",
+        "dydx": "dydx",
+        "hegic":  "hegic",
+        "synthetix": "synthetix"
+    },
+    "dex": {
+        "0x":  "0x",
+        "balancer":  "balancer",
+        "sushiswap":  "sushiswap",
+        "curvefinance": "curvefinance"
+    },
+    "lending": {
+        "compound": "compound",
+        "maker": "maker"
+    }
+}

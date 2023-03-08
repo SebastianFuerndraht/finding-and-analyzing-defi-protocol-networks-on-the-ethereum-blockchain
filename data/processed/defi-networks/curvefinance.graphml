@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="transaction_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="etherscan" attr.type="string" />
+  <key id="d14" for="node" attr.name="betweenness" attr.type="double" />
+  <key id="d13" for="node" attr.name="closeness" attr.type="double" />
+  <key id="d12" for="node" attr.name="katz" attr.type="double" />
+  <key id="d11" for="node" attr.name="pagerank_out" attr.type="double" />
+  <key id="d10" for="node" attr.name="pagerank" attr.type="double" />
+  <key id="d9" for="node" attr.name="eigenvector_out" attr.type="double" />
+  <key id="d8" for="node" attr.name="eigenvector" attr.type="double" />
+  <key id="d7" for="node" attr.name="out_degree_centrality" attr.type="double" />
+  <key id="d6" for="node" attr.name="in_degree_centrality" attr.type="double" />
+  <key id="d5" for="node" attr.name="degree_centrality" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="in_degree" attr.type="long" />
+  <key id="d2" for="node" attr.name="degree" attr.type="long" />
+  <key id="d1" for="node" attr.name="protocol" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.002692989547875647</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.619023394589568</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xd2967f45c4f384deea880f807be904762a3dea07">
+      <data key="d0">gusdCurve token address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">2</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">0.2222222222222222</data>
+      <data key="d6">0.2222222222222222</data>
+      <data key="d7">0.0</data>
+      <data key="d8">6.237630523330634e-05</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">0.22102845652537603</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">0.17124780985150598</data>
+      <data key="d13">0.22000000000000003</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x4f3e8f405cf5afc05d68142f3783bdfe13811522">
+      <data key="d0">usdnCurve token address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.1111111111111111</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.122462998813455e-05</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">0.13368793593729314</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">0.11733646230566151</data>
+      <data key="d13">0.11000000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a">
+      <data key="d0">gauge address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.3333333333333333</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">4.821833261005832e-06</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.339819157829592</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.002692989547875647</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.4485346920077272</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">1</data>
+      <data key="d4">2</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.1111111111111111</data>
+      <data key="d7">0.6666666666666666</data>
+      <data key="d8">3.122462998813455e-05</data>
+      <data key="d9">0.002688172043010749</data>
+      <data key="d10">0.12096618900826066</data>
+      <data key="d11">0.3672699516195906</data>
+      <data key="d12">0.11733646230566151</data>
+      <data key="d13">0.11000000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.002692989547875647</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.6229033582250653</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x5b5cfe992adac0c9d48e05854b2d91c73a003858">
+      <data key="d0">husdCurve token address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.1111111111111111</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.122462998813455e-05</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">0.1203440436157109</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">0.11733646230566151</data>
+      <data key="d13">0.11000000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.002692989547875647</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.6195816413895966</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x1aef73d49dedc4b1778d0706583995958dc862e6">
+      <data key="d0">musdCurve token address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.1111111111111111</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.122462998813455e-05</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">0.1423068191379311</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">0.11733646230566151</data>
+      <data key="d13">0.11000000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.3333333333333333</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.0026833545381458467</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.33374915891809076</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">0.002692989547875647</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.6854891084937582</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d0">swap address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">9</data>
+      <data key="d3">8</data>
+      <data key="d4">1</data>
+      <data key="d5">1.0</data>
+      <data key="d6">0.8888888888888888</data>
+      <data key="d7">0.3333333333333333</data>
+      <data key="d8">0.0068845931839258915</data>
+      <data key="d9">4.821833261005832e-06</data>
+      <data key="d10">0.6501365579530749</data>
+      <data key="d11">0.5868811798735324</data>
+      <data key="d12">0.5405405405405406</data>
+      <data key="d13">0.8800000000000001</data>
+      <data key="d14">1.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xc5cfada84e902ad92dd40194f0883ad49639b023">
+      <data key="d0">gauge address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.3333333333333333</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">4.821833261005832e-06</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">0.5594741833135112</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x97e2768e8e73511ca874545dc5ff8067eb19b787">
+      <data key="d2">1</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">0.1111111111111111</data>
+      <data key="d6">0.1111111111111111</data>
+      <data key="d7">0.0</data>
+      <data key="d8">3.122462998813455e-05</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">0.12509367294154466</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">0.11733646230566151</data>
+      <data key="d13">0.11000000000000001</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d0">3poolCurve token address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">9</data>
+      <data key="d3">9</data>
+      <data key="d4">0</data>
+      <data key="d5">1.0</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1.0</data>
+      <data key="d9">4.328396105032154e-09</data>
+      <data key="d10">1.0</data>
+      <data key="d11">0.33364644575301844</data>
+      <data key="d12">1.0</data>
+      <data key="d13">1.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <node id="0xa79828df1850e8a3a3064576f380d90aecdd3359">
+      <data key="d0">deposit address</data>
+      <data key="d1">curvefinance</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">3</data>
+      <data key="d5">0.3333333333333333</data>
+      <data key="d6">0.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">7.29547429629312e-08</data>
+      <data key="d9">1.0</data>
+      <data key="d10">0.11872931511596345</data>
+      <data key="d11">1.0</data>
+      <data key="d12">0.06342511475981702</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0.0</data>
+      <data key="d15">no label</data>
+    </node>
+    <edge source="0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">38</data>
+    </edge>
+    <edge source="0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb" target="0x97e2768e8e73511ca874545dc5ff8067eb19b787">
+      <data key="d16">7</data>
+    </edge>
+    <edge source="0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">66</data>
+    </edge>
+    <edge source="0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">2774</data>
+    </edge>
+    <edge source="0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">1043</data>
+    </edge>
+    <edge source="0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">2134</data>
+    </edge>
+    <edge source="0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956" target="0xd2967f45c4f384deea880f807be904762a3dea07">
+      <data key="d16">44</data>
+    </edge>
+    <edge source="0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">651</data>
+    </edge>
+    <edge source="0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">1253</data>
+    </edge>
+    <edge source="0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6" target="0x1aef73d49dedc4b1778d0706583995958dc862e6">
+      <data key="d16">107</data>
+    </edge>
+    <edge source="0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">143</data>
+    </edge>
+    <edge source="0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">208</data>
+    </edge>
+    <edge source="0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604" target="0x5b5cfe992adac0c9d48e05854b2d91c73a003858">
+      <data key="d16">2</data>
+    </edge>
+    <edge source="0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">35</data>
+    </edge>
+    <edge source="0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">88</data>
+    </edge>
+    <edge source="0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">4</data>
+    </edge>
+    <edge source="0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1" target="0x4f3e8f405cf5afc05d68142f3783bdfe13811522">
+      <data key="d16">671</data>
+    </edge>
+    <edge source="0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">1312</data>
+    </edge>
+    <edge source="0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">2544</data>
+    </edge>
+    <edge source="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">113803</data>
+    </edge>
+    <edge source="0xc5cfada84e902ad92dd40194f0883ad49639b023" target="0xd2967f45c4f384deea880f807be904762a3dea07">
+      <data key="d16">172</data>
+    </edge>
+    <edge source="0xa79828df1850e8a3a3064576f380d90aecdd3359" target="0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a">
+      <data key="d16">471</data>
+    </edge>
+    <edge source="0xa79828df1850e8a3a3064576f380d90aecdd3359" target="0x6c3f90f043a72fa612cbac8115ee7e52bde6e490">
+      <data key="d16">7649</data>
+    </edge>
+    <edge source="0xa79828df1850e8a3a3064576f380d90aecdd3359" target="0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7">
+      <data key="d16">13130</data>
+    </edge>
+  </graph>
+</graphml>
